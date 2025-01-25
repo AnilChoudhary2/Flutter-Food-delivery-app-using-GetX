@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652888061080",
+    "project_id": "shopcizer-by-quicko",
+    "storage_bucket": "shopcizer-by-quicko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652888061080:android:108574aa623525cbeb0ced",
+        "android_client_info": {
+          "package_name": "com.shopcizer.mart.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652888061080-tq1q38f9fiq7ean7vosc9qs9f0c5u1q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP2FMjbIPmEAcdHbd5iyv8DYa4ZQAxGVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652888061080-tq1q38f9fiq7ean7vosc9qs9f0c5u1q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

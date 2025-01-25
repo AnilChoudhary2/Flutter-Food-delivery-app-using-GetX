@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>652888061080-qh8rli0i7e3q3o90e4tou4fi97qqh9gq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.652888061080-qh8rli0i7e3q3o90e4tou4fi97qqh9gq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDv3O33UuG09On-AVM4znQLmJCCb84K8FM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>652888061080</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shopcizer.mart.user</string>
+	<key>PROJECT_ID</key>
+	<string>shopcizer-by-quicko</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shopcizer-by-quicko.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:652888061080:ios:a9f2c6b6f3477ef8eb0ced</string>
+</dict>
+</plist>
